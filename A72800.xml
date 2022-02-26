@@ -1,0 +1,754 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true bill of the vvhole number that hath died in the cittie of London, the citty of VVestminster, the citty of Norwich, and diuers other places, since the time this last sicknes of the plague began in either of them, to this present month of October the 20. day, 1603. With a relation of many visitations by the plague, in sundry other forraine countries.</title>
+            <title>Bills of mortality. 1603</title>
+            <author>Worshipful Company of Parish Clerks.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72800</idno>
+            <idno type="STC">STC 16743.3</idno>
+            <idno type="STC">ESTC S125101</idno>
+            <idno type="EEBO-CITATION">99898849</idno>
+            <idno type="PROQUEST">99898849</idno>
+            <idno type="VID">151054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true bill of the vvhole number that hath died in the cittie of London, the citty of VVestminster, the citty of Norwich, and diuers other places, since the time this last sicknes of the plague began in either of them, to this present month of October the 20. day, 1603. With a relation of many visitations by the plague, in sundry other forraine countries.</title>
+                  <title>Bills of mortality. 1603</title>
+                  <author>Worshipful Company of Parish Clerks.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by I.R[oberts]. for Iohn Trundle, and are to be sold at his shop in Barbican, neere Long lane end,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1603]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anonymous edition.</note>
+                  <note>Printer's name and date of publication from STC.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  Early works to 1800.</term>
+               <term>London (England) --  Statistics, Vital --  Early works to 1800.</term>
+               <term>Westminster (London, England) --  Statistics, Vital --  Early works to 1800.</term>
+               <term>Norwich (England) --  Statistics, Vital --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151054:1"/>
+            <head>A true bill of the whole number that hath died in the Cittie of London, the citty of Weſtminſter, the citty of Norwich, and diuers other places, ſince the time this laſt ſicknes of the plague began in either of them, to this preſent month of October the 20. day, 1603. With a relation of many viſitations by the plague, in ſundry other forraine Countries.</head>
+            <p>IT is no doubt that the corruption of the ayre, together with vncleanly and vnwholſome keeping of dwelling, where many are peſtered toge<g ref="char:EOLhyphen"/>ther, as alſo the not obſeruing to haue fiers priuate &amp; publiquely made as well within houſes, as without in the ſtréets, at times when the ayre is infected, are great occaſions to increaſe corrupt and peſtilent diſ<g ref="char:EOLhyphen"/>eaſes. Neither can it be denied, that the ouer-boldnes of many preaſing into infected places, and the lewdnes of others with ſores vppon them, preſuming into the open ayre, ſome of wilfulnes, but truly many of ne<g ref="char:EOLhyphen"/>ceſſitie, contaminateth &amp; corrupteth diuers: as the Leproſie, the Pocks, and ſundry ſuch vncleane diſeaſes doo: as by drinking, lying in company, and other ſuch meanes, where pure complexions and cleane bloods are defiled with ſuch as are putrified: and therefore carefully to be auoyded. But all theſe are accidentall, and rather effects then the cauſe.</p>
+            <p>In the yéere of Chriſt, 81. and in the yere 188. there continued a great time a plague in Rome, of which there daily died two thouſand people.</p>
+            <p>In the yéere 254. fiftéene prouinces of the Romaine Empire, were in a manner conſumed with the peſtilence.</p>
+            <p>In the yéere 530. there died in Conſtantinople fiue thouſand a day, and diuers times tenne thouſand: and at that time, in ſome other parts of Gréce, there were not ſufficient liuing men left to bury their dead.</p>
+            <p>And in the yéere <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>69. there fell ſuch a plague in <hi>Conſtantinople,</hi> that there died in ſixe months <hi>ſpa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> 7. hundred thouſand perſons, and the yéere following fell ſuch a famine, that a penny loafe of bread of Engliſh mony, was worth a crowne of gold: by reaſon whereof, the people died as faſt then of the famine, as they did before of the plague.</p>
+            <p>In the yéere 540. there began an vniuerſall plague all ouer the world, that continued 50. yeres with great violence. And in the yéere 1348. in <hi>Paris</hi> in fraunce, there died a hundred thouſand people of the Plague.</p>
+            <p>In the yéere 1359. ſo great a peſtilence there was in Italy, that there were ſcarce tenne left of a thouſand. And in the yéere 1521. there died in Rome a hundred thouſand of the peſtilence.</p>
+            <p>In the yéeres 1576. and 77. in Millan, Padua, and Venice, there fell a hundred thouſand in euery Citty: and in Bohemia (béeing but a ſmall Kingdome) there died thrée hundred thouſand the ſame time.</p>
+            <p>Soone after the conqueſt of King <hi>William,</hi> Duke of <hi>Normandy,</hi> when the people were ſubdued to him, and the Knights fées rated which he had made, and himſelfe placed with crowne and ſcepter, hee tooke number of the acres of land in all the realme, and of all the people, and of all the cat<g ref="char:EOLhyphen"/>tell: after which fell ſo fore a plague, that the people died in ſuch number that tillage decaied, and famine enſued, with rot of cattell, that men were faine to eate fleſh of dogs, cats, &amp; miſe. A fearefull example for Princes.</p>
+            <p>In the raigne of King <hi>Edward</hi> the third, there fell a very great peſti<g ref="char:EOLhyphen"/>lence in the Eaſt-Indies, among the Tartarians, Saracens, &amp; Turks, which laſted the ſpace of ſeauen yéeres: through the feare whereof, many of the Heathens willingly offered themſelues to become Chriſtians. And ſhortly after, by reaſon of paſſengers from one Prouince to another, the ſame peſtilence was diſperſed in many Chriſtian Kingdoms, &amp; amongſt other places, brought into England: where it was ſo forcible all ouer the Land, that not onely men, but alſo beaſts, birds, and fiſhes were ſmit<g ref="char:EOLhyphen"/>ten therewith, and found dead with botches vpon the<g ref="char:cmbAbbrStroke">̄</g>. Alſo among men, the number y<hi rend="sup">t</hi> were left aliue, were ſcarely ſufficient to bury their dead. At which time, with the reſt that then died of the plague, <hi>Henry</hi> Duke of Lancaſter, <hi>Blanch</hi> Dutcheſſe of Lancaſter, and the Earle of Warwicke ended their liues. So y<hi rend="sup">t</hi> in one yéere, in a little plot of ground of 13. acres compaſſe, then called Spittle-croft, and now the Charter-houſe, was bu<g ref="char:EOLhyphen"/>ried fifty thouſand perſons, beſides all them that were then buried in the Churchyards, and diuers places in the fields.</p>
+            <p>Alſo in Barbarie, Alexandria, Tripolie, and in Conſtantinople, this laſt yéere 1602. fell ſo grieuous a plague, that there died thrée thouſand a day for a long time together.</p>
+            <p>Our viſitations, though our ſinnes excéede, haue béene more gentle. For in the firſt great plague in our memory after the loſſe of Newhauen, fro<g ref="char:cmbAbbrStroke">̄</g> the firſt of Ianuary 1562. to Decemb. 1563. there died of the plague, twenty thouſand, one hundred, thirtie ſixe.</p>
+            <p>And in the laſt great viſitation, from the 20. of December 1592. to the 23. of the ſame month in the yéere 1593. died in all 25886. of the plague in and about London, 15003. And in the yéere before, 2000.</p>
+            <p>God of his mercy, as he did then, hold his heauy hand from vs, and giue vs true repentance, the onely meane to win his grace toward vs.</p>
+            <p>And now in this preſent viſitation which it pleaſeth God to ſtrike vs with, there hath died from the 17. of December 1602. to the 14. of Iuly 1603. the whole number in London and the liberties, 4314. Whereof of the plague, 3310. The reſt are ſet downe as they haue followed wéekely.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>From the 14 of Iuly, to the 21. of the ſame</hi>
+                     </cell>
+                     <cell>867</cell>
+                     <cell>
+                        <hi>In the out Pariſhes</hi>
+                     </cell>
+                     <cell>
+                        <hi>319</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>646</hi>
+                     </cell>
+                     <cell>
+                        <hi>Whereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>271</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>1186.</hi> vvhereof of the plague <hi>917.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 21 of Iuly, to the 28 of the ſame</hi>
+                     </cell>
+                     <cell>1103</cell>
+                     <cell>
+                        <hi>In the out Pariſhes</hi>
+                     </cell>
+                     <cell>
+                        <hi>781</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>671</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>857</hi>
+                     </cell>
+                     <cell>
+                        <hi>Out of the peſthouſe</hi>
+                     </cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>1728.</hi> vvhereof of the plague <hi>1396.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 28 of Iuly to the 4. of Auguſt</hi>
+                     </cell>
+                     <cell>1700</cell>
+                     <cell>
+                        <hi>In the out pariſhes</hi>
+                     </cell>
+                     <cell>
+                        <hi>537</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>464</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>1439</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peſthouſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>2256.</hi> vvhereof of the plague <hi>1922.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 4 of Auguſt, to the 11 of the ſame</hi>
+                     </cell>
+                     <cell>1655</cell>
+                     <cell>
+                        <hi>In the out Pariſhes</hi>
+                     </cell>
+                     <cell>
+                        <hi>410</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>361</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>1372</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peſthouſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>2077.</hi> vvhereof of the plague <hi>1745.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 11 of Auguſt, to the 18 of the ſame,</hi>
+                     </cell>
+                     <cell>2486</cell>
+                     <cell>
+                        <hi>In the out Pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>568</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>514</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>2199</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 7. Peſthouſe, 21</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>3054.</hi> vvhereof of the plague <hi>2713.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 18 of Auguſt, to the 25 of the ſame,</hi>
+                     </cell>
+                     <cell>2343</cell>
+                     <cell>
+                        <hi>In the out Pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>510</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>448</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>2091</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 8. Peſthouſe, 12</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>2853.</hi> vvhereof of the plague, <hi>2539.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 25 of Auguſt, to the 1. of September,</hi>
+                     </cell>
+                     <cell>2798</cell>
+                     <cell>
+                        <hi>In the out Pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>587</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>540</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>2495</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 5. Peſthouſe 6</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>3385,</hi> vvhereof of the plague, <hi>3035.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 1 of September to the 8 of the ſame,</hi>
+                     </cell>
+                     <cell>2583</cell>
+                     <cell>
+                        <hi>In the out Pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>495</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>441</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague</hi>
+                     </cell>
+                     <cell>
+                        <hi>2283</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 17 Peſthouſe 5</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>3078</hi> Whereof, of the Plague <hi>2724</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 8 of September to the 15 of the ſame,</hi>
+                     </cell>
+                     <cell>2676</cell>
+                     <cell>
+                        <hi>In the out Pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>453</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>407</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>wherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>2411</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 7. Peſthouſe. 10</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>3129.</hi> Whereof of the plague, <hi>2818.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 15 of Septemb. to the 22 of the ſame,</hi>
+                     </cell>
+                     <cell>2080</cell>
+                     <cell>
+                        <hi>In the out pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>376</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>344</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>1851</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 19 Peſthouſe, 10</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>2456.</hi> vvhereof of the plague, <hi>2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>95.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 22 of Septemb. to the 29 of the ſame,</hi>
+                     </cell>
+                     <cell>1666</cell>
+                     <cell>
+                        <hi>In the out pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>295</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>254</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>wherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>1478</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 8. Peſthouſe, 4</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>1961.</hi> vvhereof of the plague, <hi>1732.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 29 of Septemb. to the 6. of October,</hi>
+                     </cell>
+                     <cell>1525</cell>
+                     <cell>
+                        <hi>In the out pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>306</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>274</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvherof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>1367</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 7. peſthouſe, 7</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>1831.</hi> vvhereof of the plague, <hi>1641.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 6. of October, to the 13 of the ſame,</hi>
+                     </cell>
+                     <cell>1109</cell>
+                     <cell>
+                        <hi>In the out pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>203</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>whereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>184</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>962</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 9. peſthouſe, 4</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>1312.</hi> vvhereof of the plague, <hi>1146.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">
+                        <hi>From the 13 of October, to the 20 of the ſame,</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>647</cell>
+                     <cell>
+                        <hi>In the out pariſhes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>119</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>whereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>109</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>vvhereof of the plague,</hi>
+                     </cell>
+                     <cell>
+                        <hi>546</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>In Bridewell 6. peſthouſe, <gap reason="illegible: missing" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Buried in all this weeke, <hi>766,</hi> vvhereof of the plague, <hi>645.</hi>
+            </p>
+            <p>
+               <hi>Buried in all, within London and the liberties; ſince the ſicknes began, 35267. whereof of the plague, 29402.</hi>
+            </p>
+            <list>
+               <head>The number that hath died in the Cittie of Westminster, and the places following, ſince the ſicknes began in them.</head>
+               <item>
+                  <hi>Buried in Weſtminſter, 854. Whereof of the plague, 794.</hi>
+               </item>
+               <item>
+                  <hi>Buried in the Sauoy, 198. Whereof of the plague, 179.</hi>
+               </item>
+               <item>
+                  <hi>Buried in Stepny pariſh, 1962. Whereof of the plague, 1902.</hi>
+               </item>
+               <item>
+                  <hi>Buried at Newington-buts, 624. Whereof of the plague, 604.</hi>
+               </item>
+               <item>
+                  <hi>Buried in Iſlington, 208. Whereof of the plague, 200.</hi>
+               </item>
+               <item>
+                  <hi>Buried in Lambeth, 389. Whereof of the plague, 365.</hi>
+               </item>
+               <item>
+                  <hi>Buried in Hackny, 199. Whereof of the plague, 190.</hi>
+               </item>
+               <item>
+                  <hi>Buried in Redrieffe, 100. Whereof of the plague, 90.</hi>
+               </item>
+            </list>
+            <p>¶ The whole number buried within the <hi>8.</hi> ſeuerall places laſt before-named, ſince the ſicknes began in them, is <hi>4534.</hi> Whereof the number of the plague, is <hi>3998.</hi>
+            </p>
+            <p>¶ And the full number that hath beene buried in all, both within London and the liberties, and the eight other ſeuerall places laſt before mentioned, is 40040. Whereof the number of the plague is, 32257.</p>
+            <div type="part">
+               <head>¶ The ſeuerall viſitations by the Plague in the Citty of Norwich.</head>
+               <p>¶ In the yeere of our Lord, 1349. from the firſt of Ianuary to the laſt of Iune, there died of the plague within the Cittie of <hi>Norwich,</hi> 57104. per<g ref="char:EOLhyphen"/>ſons, beſides Eccleſiaſticall Mendicants and Domanicks.</p>
+               <p>¶ From the firſt of Iune 1579. to the firſt of the ſame month, 1580. there died of the peſtilence in the Citty of Norwich, 4928. perſons.</p>
+               <p>¶ And from the 8 of Aprill 1603. (which was the time that this laſt viſita<g ref="char:EOLhyphen"/>tion beganne in the Citty of <hi>Norwich</hi>) there haue died to the 29. of Iuly, of all diſeaſes, (as well Strangers as others) 387. And from the 29 of Iuly, to the 14 of October following, the number is ſet downe weekely.</p>
+               <list>
+                  <item>
+                     <hi>From the 29 of Iuly, to the 6. of Auguſt, the whole number is 67. the number of Strangers, is 32, the number of the plague, is 55.</hi>
+                  </item>
+                  <item>
+                     <hi>From the 6 of Auguſt to the 12. in all 75. Strangers 26. plague 60</hi>
+                  </item>
+                  <item>
+                     <hi>From the 12 of Auguſt to the 19. in all 96. Strangers 32. plague 87.</hi>
+                  </item>
+                  <item>
+                     <hi>From the 19 of Auguſt to the 26, in all 96. Strangers 32. plague 87</hi>
+                  </item>
+                  <item>
+                     <hi>From the 26. to the 2 of Septem. in all 132. Stran. 53. plague 119.</hi>
+                  </item>
+                  <item>
+                     <hi>From the 2 of Septemb. to the 9, in all 140. Strang. 38. plague 120.</hi>
+                  </item>
+                  <item>
+                     <hi>From the 9 of Septemb. to the 16, in all, 218. Strang. 80. plague 204</hi>
+                  </item>
+                  <item>
+                     <hi>From the 16 of Septemb. to the 23, in all 166, Strang. 70. plague 158</hi>
+                  </item>
+                  <item>
+                     <hi>From the 23 of Septemb. to the 30. in all 169, Strang. 75. plague 161</hi>
+                  </item>
+                  <item>
+                     <hi>From the 30 of Sept. to the 7 of Octob. in all, 182, Stran. 80. pla. 168</hi>
+                  </item>
+                  <item>
+                     <hi>From the 7 of October, to the 14, in all, 104. Strangers 62. plague 95.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The whole number, is</hi> 1832. <hi>Whereof of the plague,</hi> 1799.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>At London printed by I. R. for Iohn Trundle, and are to be ſold at his ſhop in Barbican, neere Long lane end.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
